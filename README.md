@@ -4,7 +4,7 @@
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=santa9405&show_icons=true&theme=midnight-purple&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=santa9405&show_icons=true&theme=prussian&count_private=true"/>
   </a>
 </p>
 
