@@ -10,7 +10,7 @@
 
 <br>
 
-### <div align="center">👨🏻 💻 Stack 👨🏻 💻</div>
+### <div align="center">💻 Stack 💻</div>
 <p align='center'>Techs that I've used at least once</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
